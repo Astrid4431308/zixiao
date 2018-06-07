@@ -1,0 +1,11 @@
+[ {
+  "uid" : "3a0e56b625dad29c",
+  "name" : "Test_Click.test_click",
+  "time" : {
+    "start" : 1528276139749,
+    "stop" : 1528276139749,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

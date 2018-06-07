@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "testNetWork",
+    "children" : [ {
+      "name" : "Test_Click.test_click",
+      "uid" : "3a0e56b625dad29c",
+      "parentUid" : "ac9fa592ebc74cd2a890f4d8c8cd22a7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1528276139749,
+        "stop" : 1528276139749,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "ac9fa592ebc74cd2a890f4d8c8cd22a7"
+  } ]
+}

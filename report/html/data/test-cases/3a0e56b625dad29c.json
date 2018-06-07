@@ -1,0 +1,60 @@
+{
+  "uid" : "3a0e56b625dad29c",
+  "name" : "Test_Click.test_click",
+  "fullName" : "testNetWork.Test_Click.test_click",
+  "historyId" : "42d1db0e9b60117357bc67d99d99876c",
+  "time" : {
+    "start" : 1528276139749,
+    "stop" : 1528276139749,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "1TPFMNSVJ5GMXYI"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "9664-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testNetWork"
+  }, {
+    "name" : "testClass",
+    "value" : "testNetWork"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Click.test_click"
+  }, {
+    "name" : "package",
+    "value" : "testNetWork"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "3a0e56b625dad29c.json",
+  "parameterValues" : [ ]
+}
